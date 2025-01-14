@@ -94,11 +94,12 @@ Note: My driver version was ```550.120``` and I installed ```550.54.14```, it di
 
 Once you have done installing, run the following codes to add CUDA to your system environment.
 ```
-echo 'export PATH="/usr/local/cuda-12.2/bin${PATH:+:${PATH}}"' >> ~/.bashrc
-echo 'export LD_LIBRARY_PATH="/usr/local/cuda-12.2/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}"' >> ~/.bashrc
+echo 'export PATH="/usr/local/cuda-12.4/bin${PATH:+:${PATH}}"' >> ~/.bashrc
+echo 'export LD_LIBRARY_PATH="/usr/local/cuda-12.4/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}"' >> ~/.bashrc
 source ~/.bashrc
 sudo ldconfig
 ```
+In the place of ```cuda-12.4```, replace with your version of cuda.
 
 Run ```nvcc -V``` to confirm installation. It should show you the CUDA version installed. You should see something like this:
 ```

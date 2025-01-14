@@ -68,7 +68,7 @@ If you don't have any specific need, run ```nvidia-smi``` and look for ```CUDA V
 
 Once you know the CUDA version you need, simply search Google to find the webpage as needed. You should find a webpage like the image below. Select the OS, arch, and distribution information.
 
-<img src="./asset/CudaPage.png" alt="cuda" width="80%">
+<img src="./asset/CudaPage.png" alt="cuda" width="100%">
 
 Then, run the commands shown in the following parts of the webpage. For me the commands are given below:
 

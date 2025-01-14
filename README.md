@@ -1,8 +1,9 @@
 ## Ubuntu Deep Learning System Setup Guide: 
-### CUDA, CuDNN, NVIDIA Driver, and PyTorch
-by A F M Mahfuzul Kabir, \
+### CUDA, CuDNN, NVIDIA Driver, and PyTorch Installation Guide
+by **A F M Mahfuzul Kabir**, \
 Machine Learning Engineer, \
-ACI Limited
+ACI Limited \
+<a href="mahfuzulkabir.com">mahfuzulkabir.com</a>
 
 ## How to use this document:
 This document has four parts. \

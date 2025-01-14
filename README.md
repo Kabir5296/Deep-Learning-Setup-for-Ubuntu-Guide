@@ -6,7 +6,7 @@ ACI Limited \
 <a href="mahfuzulkabir.com">mahfuzulkabir.com</a>
 
 ## How to use this document:
-This document has four parts. \
+This document has four parts.
 1. NVIDIA Driver Installation.
 2. CUDA Installation.
 3. CuDNN Installation.

@@ -6,6 +6,14 @@ ACI Limited \
 <a href="mahfuzulkabir.com">mahfuzulkabir.com</a>
 
 ## How to use this document:
+For the simplest form of use, run the 'one-click-installer.sh' bash file. This will install the default nvidia driver 550 version, CUDA 12.8 (currently latest), and CuDNN 9.
+```
+chmod u+x ./one-click-installer.sh
+./one-click-installer.sh
+```
+However, this file is not guranteed to be error-free, since it depends on your system and hardware. So, it's better to go over the following documents and try to install everything manually.
+
+## Manual Installation - RECOMMENDED
 This document has four parts.
 1. NVIDIA Driver Installation.
 2. CUDA Installation.
